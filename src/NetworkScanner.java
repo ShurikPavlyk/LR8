@@ -8,7 +8,7 @@ public class NetworkScanner {
         String startIP = "134.168.1.1";
         String endIP = "192.168.1.254";
 
-        System.out.println("Scanning for active hosts...");
+        System.out.println("Scanning for active hostsпапавп...");
 
         try {
             scanRange(startIP, endIP);
